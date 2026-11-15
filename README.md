@@ -1,4 +1,4 @@
-# Research & Reading Notes
+# Digital Garden
 
 Personal knowledge base built with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/), organising book takeaways, high-level topic syntheses, and AI research notes.
 

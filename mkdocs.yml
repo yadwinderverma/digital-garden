@@ -1,6 +1,6 @@
-site_name: Research & Reading Notes
+site_name: Digital Garden
 site_description: Personal wiki and synthesised notes from books, articles, and AI research sessions.
-site_url: https://example.com
+site_url: https://yadwinderverma.github.io/digital-garden/
 
 theme:
   name: material
