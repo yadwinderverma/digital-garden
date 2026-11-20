@@ -1,7 +1,7 @@
 # Books
 
-Structured reading notes, chapter summaries, and core arguments from books I have read or am currently reading.
+Key themes, quotes, and anecdotes from the audiobooks I have listened to or am currently listening to.
 
-## Currently Reading
+## Currently Listening
 
 - **[Sapiens: A Brief History of Humankind](sapiens/index.md)** (Yuval Noah Harari)

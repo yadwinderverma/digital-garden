@@ -1,6 +1,6 @@
-site_name: Digital Garden
-site_description: Personal wiki and synthesised notes from books, articles, and AI research sessions.
-site_url: https://yadwinderverma.github.io/digital-garden/
+site_name: Listening Log
+site_description: Key themes, quotes, and anecdotes from the audiobooks I listen to.
+site_url: https://yadwinderverma.github.io/listening-log/
 
 theme:
   name: material
@@ -31,7 +31,6 @@ theme:
 
 plugins:
   - search
-  - tags
 
 markdown_extensions:
   - admonition
@@ -53,11 +52,5 @@ nav:
           - Overview & Core Thesis: books/sapiens/index.md
           - "Part 1: The Cognitive Revolution": books/sapiens/part-1-cognitive-revolution.md
           - "Part 2: The Agricultural Revolution": books/sapiens/part-2-agricultural-revolution.md
-  - Topics:
-      - topics/index.md
-      - Systems & Coordination:
-          - Shared Myths & Coordination: topics/human-coordination-and-myths.md
-      - Technology & Data:
-          - Information Systems Evolution: topics/information-systems-evolution.md
-          - Synthesising AI Research: topics/ai-knowledge-management.md
-  - Tags: tags.md
+          - "Part 3: The Unification of Humankind": books/sapiens/part-3-unification-of-humankind.md
+          - "Part 4: The Scientific Revolution": books/sapiens/part-4-scientific-revolution.md

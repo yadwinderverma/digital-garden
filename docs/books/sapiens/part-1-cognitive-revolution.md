@@ -1,11 +1,3 @@
----
-tags:
-  - anthropology
-  - history
-  - coordination
-  - language
----
-
 # Part 1: The Cognitive Revolution
 
 Part 1 covers the first four chapters of *Sapiens* (from roughly 2.5 million years ago to the onset of the Agricultural Revolution around 10,000 BCE). It traces how an insignificant ape jumped to the top of the food chain through the emergence of fictive language, gossip, and shared myths.
@@ -13,6 +5,8 @@ Part 1 covers the first four chapters of *Sapiens* (from roughly 2.5 million yea
 ---
 
 ## Chapter 1: An Animal of No Significance
+
+> **The Big Idea:** For two million years, *Homo sapiens* was just one of several insignificant human species stuck in the middle of the food chain; our sudden leap to the top happened too fast for ecosystems or our own psychology to adjust.
 
 ### Core Concepts & Notes
 
@@ -47,9 +41,17 @@ Part 1 covers the first four chapters of *Sapiens* (from roughly 2.5 million yea
 - **The Political Explosiveness of DNA:** Harari notes that if the Replacement Theory had proven 100% false and Europeans vs. Asians had descended from completely separate *Homo* lineages, it would have provided biological dynamite for racial theories. Even the 1-6% admixture discovered in 2010 shocked the scientific community.
 - **What if Neanderthals Had Survived?** Harari asks us to imagine a modern world where Neanderthals and Denisovans still lived alongside us: Would the US Declaration of Independence read *"We hold these truths to be self-evident, that all members of the genus Homo are created equal"*? Would Karl Marx have urged *"Workers of all species, unite!"*? Their absence is why we find it so easy to imagine an insurmountable gulf between ourselves and the rest of the animal kingdom.
 
+### Memorable Quotes
+
+> "We had better start remembering that we are not the only human species that has ever existed."
+
+> "Having so recently been one of the underdogs of the savannah, we are full of fears and anxieties over our position, which makes us doubly cruel and dangerous. Many historical calamities, from deadly wars to ecological catastrophes, have resulted from this over-hasty jump."
+
 ---
 
 ## Chapter 2: The Tree of Knowledge
+
+> **The Big Idea:** *Sapiens* conquered the planet not because we are smarter individually, but because fictive language lets millions of strangers cooperate flexibly around shared myths (money, nations, gods, corporations).
 
 ### Core Concepts & Notes
 
@@ -78,9 +80,19 @@ Part 1 covers the first four chapters of *Sapiens* (from roughly 2.5 million yea
     - **How is a company created?** Not by hammering metal, but by a lawyer performing secular magic rituals: writing symbols on ornate paper, affixing signatures, and declaring to the public that a new "legal fiction" (a limited liability company) now exists. Armand Peugeot didn't forge a company out of iron; he told a convincing story.
 - **The French Revolution (1789):** Overnight, the French population switched its foundational myth from the "divine right of kings" to the "sovereignty of the people," radically reorganising a massive human society without any biological mutation.
 
+### Memorable Quotes
+
+> "Large numbers of strangers can cooperate successfully by believing in common myths."
+
+> "There are no gods in the universe, no nations, no money, no human rights, no laws, and no justice outside the common imagination of human beings."
+
+> "Ever since the Cognitive Revolution, Sapiens has thus been living in a dual reality. On the one hand, the objective reality of rivers, trees and lions; and on the other hand, the imagined reality of gods, nations and corporations."
+
 ---
 
 ## Chapter 3: A Day in the Life of Adam and Eve
+
+> **The Big Idea:** Our brains and bodies are still wired for the savannah; ancient hunter-gatherers worked fewer hours, ate better, and suffered less disease than the farmers who replaced them, though band life could also be brutally pragmatic.
 
 ### Core Concepts & Notes
 
@@ -119,9 +131,17 @@ Part 1 covers the first four chapters of *Sapiens* (from roughly 2.5 million yea
     - *Jebel Sahaba, Sudan (59 skeletons, ~12,000 years old):* **24 skeletons (40%)** had arrowheads and spear points embedded in or near their bones, indicating systematic warfare.
     - *Ofnet Cave, Bavaria:* 38 skulls, mostly women and children, thrown into two pits, half showing mortal blows from clubs and knives.
 
+### Memorable Quotes
+
+> "The average ancient forager had a wider, deeper and more varied knowledge of their immediate surroundings than most of their modern descendants."
+
+> "At the individual level, ancient foragers were the most knowledgeable and skilful people in history."
+
 ---
 
 ## Chapter 4: The Flood
+
+> **The Big Idea:** Long before agriculture or industry, Stone Age *Sapiens* was an ecological serial killer; wherever humans arrived for the first time, the local megafauna vanished within millennia.
 
 ### Core Concepts & Notes
 
@@ -156,9 +176,13 @@ Part 1 covers the first four chapters of *Sapiens* (from roughly 2.5 million yea
     - The pattern repeated across every isolated island chain: pygmy hippos and giant tortoises in Cyprus and Madagascar; giant lemurs and elephant birds in Madagascar; the **Moa** flightless birds in New Zealand (wiped out within a couple of centuries after Maori settlers arrived c. 1200 CE).
 - **Noah's Ark Upside Down:** If we knew how many species we have already eradicated, we might be more motivated to protect the survivors. Among all the world's large creatures, the only survivors of the human flood are humans themselves and the farm animals that serve as galley slaves in Noah's Ark.
 
+### Memorable Quotes
+
+> "Long before the Industrial Revolution, Homo sapiens held the record among all organisms for driving the most plant and animal species to their extinctions. We have the dubious distinction of being the deadliest species in the annals of biology."
+
 ---
 
-## Questions & Reflections from AI Chats
+## Key Reflections
 
 - **How do organisations scale past 150 people without collapsing into bureaucracy?** Small teams rely on peer trust (gossip); beyond ~150 people, alignment requires explicit shared narratives, protocols, and institutional rules.
 - **Rapid Cultural Evolution:** Unlike genetic evolution, which takes tens of thousands of years to alter behaviour, changing a shared myth (e.g. from divine right of kings to popular sovereignty) rewires collective human behaviour in a single generation.
