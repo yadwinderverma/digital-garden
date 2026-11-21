@@ -1,5 +1,7 @@
 # Listening Log
 
+**Read online:** https://yadwinderverma.github.io/listening-log/
+
 Personal archive of key themes, quotes, and anecdotes from the audiobooks I listen to on Audible, built with [Zensical](https://zensical.org/).
 
 ## Structure
