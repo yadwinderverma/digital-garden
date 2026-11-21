@@ -48,9 +48,41 @@ nav:
   - Home: index.md
   - Books:
       - books/index.md
+      - Atomic Habits (James Clear):
+          - Overview & Core Thesis: books/atomic-habits/index.md
+          - "Part 1: The Fundamentals": books/atomic-habits/part-1-the-fundamentals.md
+          - "Part 2: Make It Obvious & Attractive": books/atomic-habits/part-2-make-it-obvious-and-attractive.md
+          - "Part 3: Make It Easy & Satisfying": books/atomic-habits/part-3-make-it-easy-and-satisfying.md
+          - "Part 4: Advanced Tactics": books/atomic-habits/part-4-advanced-tactics.md
+      - Deep Work (Cal Newport):
+          - Overview & Core Thesis: books/deep-work/index.md
+          - "Part 1: The Idea": books/deep-work/part-1-the-idea.md
+          - "Part 2: The Rules": books/deep-work/part-2-the-rules.md
+      - Escaping the Build Trap (Melissa Perri):
+          - Overview & Core Thesis: books/escaping-the-build-trap/index.md
+          - "Parts 1 & 2: Build Trap & PM Role": books/escaping-the-build-trap/part-1-build-trap-and-pm-role.md
+          - "Parts 3 & 4: Strategy & Process": books/escaping-the-build-trap/part-2-strategy-and-process.md
+          - "Part 5: Product-Led Organization": books/escaping-the-build-trap/part-3-product-led-organization.md
+      - Factfulness (Hans Rosling):
+          - Overview & Core Thesis: books/factfulness/index.md
+          - "Part 1: Gap, Negativity & Straight Line": books/factfulness/part-1-gap-negativity-straight-line.md
+          - "Part 2: Fear, Size & Generalisation": books/factfulness/part-2-fear-size-generalization.md
+          - "Part 3: Destiny, Perspective, Blame & Urgency": books/factfulness/part-3-destiny-single-perspective-blame-urgency.md
+      - Same as Ever (Morgan Housel):
+          - Overview & Core Thesis: books/same-as-ever/index.md
+          - "Part 1: Risk & Expectations": books/same-as-ever/part-1-risk-and-expectations.md
+          - "Part 2: Human Nature & Incentives": books/same-as-ever/part-2-human-nature-and-incentives.md
+          - "Part 3: Progress & Compounding": books/same-as-ever/part-3-progress-and-compounding.md
+          - "Part 4: Enduring Truths": books/same-as-ever/part-4-enduring-truths.md
       - Sapiens (Yuval Noah Harari):
           - Overview & Core Thesis: books/sapiens/index.md
           - "Part 1: The Cognitive Revolution": books/sapiens/part-1-cognitive-revolution.md
           - "Part 2: The Agricultural Revolution": books/sapiens/part-2-agricultural-revolution.md
           - "Part 3: The Unification of Humankind": books/sapiens/part-3-unification-of-humankind.md
           - "Part 4: The Scientific Revolution": books/sapiens/part-4-scientific-revolution.md
+      - The Psychology of Money (Morgan Housel):
+          - Overview & Core Thesis: books/psychology-of-money/index.md
+          - "Part 1: Luck, Risk & Enough": books/psychology-of-money/part-1-luck-risk-and-enough.md
+          - "Part 2: Tails, Freedom & Wealth": books/psychology-of-money/part-2-tails-freedom-and-wealth.md
+          - "Part 3: Margins & Time": books/psychology-of-money/part-3-margins-and-time.md
+          - "Part 4: Playing Your Own Game": books/psychology-of-money/part-4-playing-your-own-game.md
